@@ -1,4 +1,4 @@
-# LibGDX Slam the bird
+# LibGDX 2048 8bit puzzle game
 
 [Try the game in your Browser](https://yayo-arellano.github.io/libgdx_2048_8bit/)
 
